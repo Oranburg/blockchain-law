@@ -38,3 +38,6 @@ Open an [issue](https://github.com/Oranburg/blockchain-law/issues) to:
 ## License
 
 Statutory text is public law. Site implementation is MIT licensed.
+
+## Superseded (2026-06-20)
+This repository is superseded by **digital-assets**. The full NH RSA 301-B statute and the digital-asset law hub now live at https://oranburg.law/digital-assets/ (statute at `#/nh-rsa-301b`), where they use the shared Oranburg design system. This repository is kept for reference and is slated for archiving on GitHub. See the wiki Decision-2026-06-20 page.
